@@ -660,3 +660,4 @@ Future improvements may include:
 
 ## Roadmap
 - Athlete registration area
+- Google authentication
