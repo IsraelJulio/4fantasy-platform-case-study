@@ -662,3 +662,4 @@ Future improvements may include:
 - Athlete registration area
 - Google authentication
 - Internationalization
+- knockout stage view
