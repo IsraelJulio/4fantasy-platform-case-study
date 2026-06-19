@@ -657,3 +657,6 @@ Future improvements may include:
 - Deployment strategy
 - Technical decision records
 - Product demo with mock data
+
+## Roadmap
+- Athlete registration area
